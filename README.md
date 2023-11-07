@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Kunalgaurav1
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Any kind of project
 - 📫 How to reach me --> Mail me at kunalgaurav1420@gmail.com
 
 <!---
